@@ -14,7 +14,7 @@
 
 # Programs
 
-## circle.py
+## [circle.py][https://github.com/Oreopaks/geometric_lib/blob/lab_num_two/circle.py]
 - def area(r):
     Принимает r- радиус окружности и возвращает ее площадь return math.pi * r * r
 - def perimeter(r):
