@@ -35,6 +35,7 @@
     Принимает a - длинну ребра куба и возвращает площадь его поверхности return 6*a**2
 
 ### Example
+    -Surface_Area
     input: a = 5
     output: 150
 
@@ -46,9 +47,11 @@
     Принимает a - длинну стороны квадрата и возвращает его площадь return 4 * a
 
 ### Examples
+    -area
     input: a = 12
     output: 144
 
+    -perimeter
     input: a = 6
     output: 48
 
