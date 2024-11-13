@@ -14,7 +14,7 @@
 
 # Programs
 
-## [circle.py](lab_num_two/circle.py "go to the code")
+## [circle.py](circle.py "go to the code")
 - def area(r):
     Принимает r- радиус окружности и возвращает ее площадь return math.pi * r * r
 - def perimeter(r):
