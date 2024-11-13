@@ -40,7 +40,7 @@
     output: 150
 
 
-## [square.py](../Cube.py "go to the code")
+## [square.py](../square.py.py "go to the code")
 - def area(a):
     Принимает a -  длинну стороны квадрата и возвращает его площадь return a * a
 - def perimeter(a):
