@@ -30,7 +30,7 @@
     output: 37.69911184307752
 
 
-## [Cube.py](Cube.py "go to the code")
+## [Cube.py](../Cube.py "go to the code")
 - def Surface_Area(a):
     Принимает a - длинну ребра куба и возвращает площадь его поверхности return 6*a**2
 
@@ -40,7 +40,7 @@
     output: 150
 
 
-## [square.py](Cube.py "go to the code")
+## [square.py](../Cube.py "go to the code")
 - def area(a):
     Принимает a -  длинну стороны квадрата и возвращает его площадь return a * a
 - def perimeter(a):
